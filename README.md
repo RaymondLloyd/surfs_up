@@ -1,4 +1,5 @@
 # SurfsUp Analysis
+![surfing_image](https://user-images.githubusercontent.com/79877349/118385059-84207500-b5c0-11eb-865f-2c63d7dfb439.png)
 
 
 ## Overview:
