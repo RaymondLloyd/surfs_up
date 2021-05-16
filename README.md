@@ -9,9 +9,13 @@ We will be reaching out to an investor, W. Avy about opening a surf shop in Oahu
 ## Resources:
 
 •	Hawaii.sqlite 
+
 •	Python 3.7
+
 •	VScode
+
 •	Jupyter Notebook
+
 •	climate_anlaysis.ipynb
 
 
