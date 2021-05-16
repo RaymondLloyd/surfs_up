@@ -48,7 +48,10 @@ Here is the December rain results. The average is not quite a ¼ inch. While the
 ## Summary:
 
 
-In our analysis, we were able to see
+In our analysis, we were able to see that the overall temperatures in June and December were relatively moderate. Seems to me, to be a perfect location to open up a surf shop. The temperature does not fluctuate too high or too low either, meaning that sales reflections for the surf shop should stay consistent on a temperature based analysis. 
+
+
+To further our analysis, we made queries on the precipitation data as well. That shows us, again, pretty consistent numbers, meaning that it seems like a safe bet for that location. Although, it looks like there is some heavy rainfall days with the maximum in June and December skyrocketing to above 4 inches. My guess would be that sales would plummet on those days. There could be some room for more exploratory business ideas aimed at increasing profits for those rainy days.
 
 
 
